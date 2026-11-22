@@ -16,3 +16,16 @@ cd ShizuGuard
 gradle assembleDebug --no-daemon -Pandroid.aapt2FromMavenOverride=$(which aapt2)
 ```
 Output APK: `app/build/outputs/apk/debug/app-debug.apk`
+
+## Support / Donate
+
+If you find ShizuGuard useful, consider supporting its development:
+
+| Method | Destination |
+|--------|-------------|
+| Bitcoin (BTC) | `1PHrmfUPMSeyaGS1bmcCmJJxev4QFGALNQ` |
+| Solana (SOL) | `mQ1YahGp1WuicSRZxeP6CV9CrkZ1ifoU4VEorNGRQvw` |
+| PayPal | `yuhanbae@gmail.com` |
+| Dana / OVO / GoPay | `082186816881` |
+
+Full details in [DONATE.md](DONATE.md). Thank you!
