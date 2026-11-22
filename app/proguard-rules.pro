@@ -1,0 +1,2 @@
+-keep class com.yuhanbae.shizuguard.GuardUserService { *; }
+-keep class com.yuhanbae.shizuguard.IGuardService** { *; }
